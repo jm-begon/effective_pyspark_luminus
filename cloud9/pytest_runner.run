@@ -1,0 +1,6 @@
+{
+ "cmd" : ["python3", "-m", "pytest", "$file", "$args"],
+ "info" : "Running python3 -m pytest $file_name $args",
+ "env" : {},
+ "selector" : "source.ext"
+}
